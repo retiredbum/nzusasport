@@ -49,6 +49,10 @@ https://cdn1-9p.teleuptv.net/51845f95-aa92-4dbc-9357-d9efd5243396/tracks-v4a1/re
 https://cdn1-9p.teleuptv.net/91c031e0-ac52-40d0-b305-b3398ef4c338/tracks-v4a1/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="mjh-7-rac" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/800px-RACING.COM_logo_2016.svg.png",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-id="SkySp.Arena.uk" tvg-name="" tvg-type="" tvg-logo="https://media.tv4.live/mfghdzzfhs.ss.png",Sky Sports Arena
+https://247b.mrgamingstreams.com/mrgamingskyarena.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="" tvg-type="" tvg-logo="https://media.tv4.live/eppvjpkd.ss.png",Sky Sports Main Event
+https://247b.mrgamingstreams.com/mrgamingmainevent.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports 1 
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports 2
