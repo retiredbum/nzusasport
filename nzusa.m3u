@@ -31,7 +31,7 @@ https://cdn1-9p.teleuptv.net/5dd8accc-dc30-40a8-91ef-ab0cc7d4b741/rewind-14400.m
 https://cdn1-9p.teleuptv.net/26b133af-4436-48b3-802a-aff73cefc41e/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/USANetwork.png",USA NETWORK
 https://cdn1-9p.teleuptv.net/c5c246cd-2ae5-4916-9b3c-1440bd79a8df/rewind-14400.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/ZXQVTMV/bbc-america.png" audio-track="English" group-title="News",BBC America
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="bbc.america.east.us" tvg-logo="https://media.tv4.live/bbc.america.east.us.png",BBC America
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Bravo.png",BRAVO
 https://cdn1-9p.teleuptv.net/d6d4f13e-3dc6-4067-8195-aef19b130b0f/rewind-14400.m3u8
