@@ -37,7 +37,7 @@ http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 https://cdn1-9p.teleuptv.net/d6d4f13e-3dc6-4067-8195-aef19b130b0f/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FX.png",FX
 https://cdn1-9p.teleuptv.net/9358b6f4-3177-4fd5-8bd7-72d50025ad83/rewind-14400.m3u8
-#EXTINF:-1 tvg-id="SyfyEast.us" tvg-name=""Syfy East tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",SYFY
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",SYFY
 https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/rewind-14400.m3u8 
 #EXTINF:-1 tvg-id="FreeformEast.us" tvg-name="Freeform East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Freeform.png",FREEFORM
 https://cdn1-9p.teleuptv.net/03067123-de29-4f43-9d65-0a65a8aa43f4/rewind-14400.m3u8
