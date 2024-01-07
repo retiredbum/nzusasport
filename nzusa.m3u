@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz"
 #EXTINF:-1 channel-id="mjh-tvnz-1" tvg-id="mjh-tvnz-1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png",TVNZ 1
 http://livestreams.e-cast.co.nz/tv1.m3u8
 #EXTINF:-1 channel-id="mjh-tvnz-2" tvg-id="mjh-tvnz-2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png",TVNZ 2
@@ -53,11 +53,11 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 https://247b.mrgamingstreams.com/mrgamingskyarena.m3u8
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="" tvg-type="" tvg-logo="https://media.tv4.live/eppvjpkd.ss.png",Sky Sports Main Event
 https://247b.mrgamingstreams.com/mrgamingmainevent.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports 1 
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports 1 
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports 2
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports 2
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports 5 
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports 5 
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",TNT Sports 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
@@ -67,7 +67,7 @@ https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",TNT Sports 4
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Willow HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Sports Willow HD
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 channel-id="mjh-trackside-1" tvg-id="" tvg-logo="https://i.mjh.nz/.images/trackside-1.png",TAB TRACKSIDE 1
 https://i.mjh.nz/trackside-1.m3u8
