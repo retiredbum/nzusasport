@@ -7,8 +7,6 @@ http://livestreams.e-cast.co.nz/tv2.m3u8
 http://livestreams.e-cast.co.nz/tv3.m3u8
 #EXTINF:-1 channel-id="mjh-three" tvg-id="mjh-three" tvg-logo="https://www.sport3group.com/wp-content/uploads/2018/06/sport3-logo.png",THREE SPORT
 https://dna-nz-popup2-source.fullscreen.nz/index_8.m3u8
-#EXTINF:-1 channel-id="mjh-bravo" tvg-id="mjh-bravo" tvg-logo="https://i.mjh.nz/.images/bravo.png",BRAVO
-https://i.mjh.nz/bravo.m3u8
 #EXTINF:-1 channel-id="mjh-maori-tv" tvg-id="mjh-maori-tv" tvg-logo="https://i.mjh.nz/.images/maori-tv.png",MAORI
 http://livestreams.e-cast.co.nz/maori.m3u8
 #EXTINF:-1 channel-id="mjh-tvnz-duke" tvg-id="mjh-tvnz-duke" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png",DUKE
@@ -23,6 +21,8 @@ http://livestreams.e-cast.co.nz/rush.m3u8
 https://i.mjh.nz/al-jazeera.m3u8
 #EXTINF:-1 tvg-id="abc.kaal.austin.mn.us" tvg-name="abc.kaal.austin.mn.us" tvg-logo="https://media.tv4.live/abc.kaal.austin.mn.us.png",ABC (KAAL) Austin MN
 https://247b.mrgamingstreams.com/mrgamingabc.m3u8
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="cnn.ca" tvg-logo="https://media.tv4.live/cnn.ca.png",CNN 
+http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FoxNews.png",FOX NEWS
 https://cdn1-9p.teleuptv.net/4d90954f-147f-47d9-8016-8d5fdcb159ec/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Discovery.png",DISCOVERY CHANNEL
@@ -31,6 +31,8 @@ https://cdn1-9p.teleuptv.net/5dd8accc-dc30-40a8-91ef-ab0cc7d4b741/rewind-14400.m
 https://cdn1-9p.teleuptv.net/26b133af-4436-48b3-802a-aff73cefc41e/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="USA Network East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/USANetwork.png",USA NETWORK
 https://cdn1-9p.teleuptv.net/c5c246cd-2ae5-4916-9b3c-1440bd79a8df/rewind-14400.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/ZXQVTMV/bbc-america.png" audio-track="English" group-title="News",BBC America
+http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Bravo.png",BRAVO
 https://cdn1-9p.teleuptv.net/d6d4f13e-3dc6-4067-8195-aef19b130b0f/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FX.png",FX
@@ -39,6 +41,8 @@ https://cdn1-9p.teleuptv.net/9358b6f4-3177-4fd5-8bd7-72d50025ad83/rewind-14400.m
 https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/rewind-14400.m3u8 
 #EXTINF:-1 tvg-id="FreeformEast.us" tvg-name="Freeform East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Freeform.png",FREEFORM
 https://cdn1-9p.teleuptv.net/03067123-de29-4f43-9d65-0a65a8aa43f4/rewind-14400.m3u8
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="msnbc.usa.us" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC 
+http://38.96.178.201:80/live/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN.png",ESPN
 https://cdn1-9p.teleuptv.net/51845f95-aa92-4dbc-9357-d9efd5243396/tracks-v4a1/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN2.png",ESPN 2
